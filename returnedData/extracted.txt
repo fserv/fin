@@ -1,0 +1,869 @@
+Includes unconditional purchase obligations related to agreements to acquire and license digital video content that represent long-term liabilities or that are not reflected on the consolidated balance sheets. 
+
+(2) 
+
+Includes the estimated timing and amounts of payments for rent and tenant improvements associated with build-to-suit lease arrangements that have not been placed in service. 
+
+(3) 
+
+Excludes $336 million &#32;of tax contingencies for which we cannot make a reasonably reliable estimate of the amount and period of payment, if any. 
+
+Pledged Securities 
+
+As of September 30, 2013 , and December 31, 2012 , we have pledged or otherwise restricted $290 million &#32;and $99 million &#32;of our cash and marketable securities as collateral for standby and trade letters of credit, guarantees, debt related to our international operations, and real estate leases. 
+
+Legal Proceedings 
+
+The Company is involved from time to time in claims, proceedings, and litigation, including the matters described in Item 8 of Part II, &#8220;Financial Statements and Supplementary Data &#8212; Note 8 &#8212; Commitments and Contingencies &#8212; Legal Proceedings&#8221; of our 2012 Annual Report on Form 10-K and in Item 1 of Part I, &#8220;Financial Statements &#8212; Note 3 &#8212; Commitments and Contingencies &#8212; Legal Proceedings&#8221; of our Quarterly Reports on Forms 10-Q for the Periods Ended March 31, 2013, and June 30, 2013, as supplemented by the following: 
+
+In December 2009, Nazomi Communications, Inc. filed a complaint against Amazon.com, Inc. for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges, among other things, that the processor core in Kindle devices infringes two &#32;patents owned by Nazomi purporting to cover &#8220;Java virtual machine hardware for RISC and CISC processors&#8221; and &#8220;Java hardware accelerator using microcode engine&#8221; (U.S. Patent Nos. 7,080,362 and 7,225,436) and seeks monetary damages, injunctive relief, costs, and attorneys&#8217; fees. In October 2010, the case was transferred to the United States District Court for the Northern District of California. In January 2012, Nazomi added Amazon.com, Inc. to a second lawsuit that alleges, among other things, that certain Kindle devices infringe a patent owned by Nazomi purporting to cover a &#8220;Constant Pool Reference Resolution Method&#8221; (U.S. Patent No. 6,338,160) and also seeks monetary damages, injunctive relief, costs, and attorneys&#8217; fees. In June 2013, the court granted summary judgment of noninfringement on the &#8216;362 and &#8216;436 patents. In August 2013, the court granted summary judgment of noninfringement on the &#8216;160 patent. The plaintiff is appealing both rulings to the Court of Appeals for the Federal Circuit. We continue to dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. 
+
+In July 2010, Positive Technologies Inc. filed a complaint against Amazon.com, Inc. for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges, among other things, that certain of our products, including Kindle devices, infringe three &#32;patents owned by the plaintiff purporting to cover a &#8220;DC Integrating Display Driver Employing Pixel Status Memories&#8221; (U.S. Patent Nos. 5,444,457, 5,627,558, and 5,831,588) and seeks monetary damages, injunctive relief, costs, and attorneys&#8217; fees. In April 2011, the case was transferred to the United States District Court for the 
+
+Northern District of California. In August 2013, we entered into a settlement of the litigation that included, among other things, a payment to the plaintiff. The settlement was not material to either the current or future years. 
+
+In April 2011, Walker Digital LLC filed several complaints against Amazon.com, Inc. for patent infringement in the United States District Court for the District of Delaware. The complaints allege that we infringe several of the plaintiff&#8217;s U.S. patents by, among other things, providing &#8220;cross benefits&#8221; to customers through our promotions (U.S. Patent Nos. 7,831,470 and 7,827,056), using a customer&#8217;s identified original product to offer a substitute product (U.S. Patent No. 7,236,942), using our product recommendations and personalization features to offer complementary products together (U.S. Patent Nos. 6,601,036 and 6,138,105), enabling customers to subscribe to a delivery schedule for products they routinely use at reduced prices (U.S. Patent No. 5,970,470), and offering personalized advertising based on customers&#8217; preferences identified using a data pattern (U.S. Patent No. 7,933,893). Another complaint, filed in the same court in October 2011, alleges that we infringe plaintiff&#8217;s U.S. Patent No. 8,041,711 by offering personalized advertising based on customer preferences that associate data with resource locators. Another complaint, filed in the same court in February 2012, alleges that we infringe plaintiff&#8217;s U.S. Patent No. 8,112,359 by using product information received from customers to identify and offer substitute products using a manufacturer database. In January 2013, the plaintiff filed another complaint in the same court alleging that we infringe U.S. Patent No. 6,381,582 by allowing customers to make local payments for products ordered online. All of the complaints seek monetary damages, interest, injunctive relief, costs, and attorneys&#8217; fees. In March 2013, the complaints asserting U.S. Patent Nos. 7,236,942 and 7,933,893 were voluntarily dismissed with prejudice. In April 2013, the case asserting U.S. Patent No. 8,041,711 was stayed pending final resolution of the reexamination of that patent. In June 2013, the court granted defendants&#8217; motions to dismiss the complaints asserting U.S. Patent Nos. 7,831,470, 7,827,056, and 8,112,359 for lack of standing. In July 2013, we filed motions seeking entry of a final judgment dismissing those claims with prejudice and for attorneys' fees, and plaintiff filed notices of appeal from the June 2013 order granting the motions to dismiss. We dispute the remaining allegations of wrongdoing and intend to vigorously defend ourselves in these matters. 
+
+In July 2011, GPNE Corp. filed a complaint against Amazon.com, Inc. for patent infringement in the United States District Court for the District of Hawaii. The complaint alleges, among other things, that certain aspects of our technology, including Kindle devices, infringe three &#32;patents owned by the plaintiff purporting to cover a &#8220;Network Communication System Wherein a Node Obtains Resources for Transmitting Data by Transmitting Two Reservation Requests&#8221; (U.S. Patent No. 7,555,267), a &#8220;Communication System Wherein a Clocking Signal from a Controller, a Request from a Node, Acknowledgement of the Request, and Data Transferred from the Node are all Provided on Different Frequencies, Enabling Simultaneous Transmission of these Signals&#8221; (U.S. Patent No. 7,570,954) and a &#8220;Network Communication System with an Alignment Signal to Allow a Controller to Provide Messages to Nodes and Transmission of the Messages over Four Independent Frequencies&#8221; (U.S. Patent No. 7,792,492) and seeks monetary damages, interest, costs, and attorneys&#8217; fees. In June 2012, the case was transferred to the United States District Court for the Northern District of California. In September 2013, we entered into a settlement of the litigation that included, among other things, a payment to the plaintiff. The settlement was not material to either the current or future years. 
+
+In July 2012, Technology Properties Limited, Phoenix Digital Solutions LLC, and Patriot Scientific Corporation filed complaints against Amazon.com, Inc. for patent infringement in the United States International Trade Commission ("ITC") and in the United States District Court for the Northern District of California. The complaints allege, among other things, that using certain Kindle devices in combination with certain peripheral devices infringes U.S. Patent No. 5,809,336, entitled &#8220;High Performance Microprocessor Having Variable Speed System Clock.&#8221; The ITC complaint seeks an exclusion order preventing the importation of certain Kindle devices into the United States. The district court complaint asserts infringement of two &#32;additional patents&#8212;U.S. Patent Nos. 5,440,749 and 5,530,890, both entitled &#8220;High Performance, Low Cost Microprocessor Architecture&#8221;&#8212;and seeks an unspecified amount of damages, enhanced damages, attorneys&#8217; fees, interest, and an injunction. In a November 2012 letter to the Company plaintiff alleged specifically that, if we are found to infringe the patents-in-suit and the patents are found to be valid (both of which we dispute), Amazon and its affiliates should pay damages of approximately $42 million , subject to enhancement, plus $17 million &#32;in prejudgment interest. In September 2013, the ITC issued an Initial Determination of non-infringement. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. 
+
+In May 2013, the Trustees of Boston University filed a complaint against Amazon.com, Inc. aka Amazon.com Auctions, Inc. in the United States District Court for the District of Massachusetts. The complaint alleges, among other things, that certain light-emitting diodes in certain Kindle devices infringe U.S. Patent No. 5,686,738, entitled &#8220;Highly Insulating Monocrystalline Gallium Nitride Thin Films.&#8221; The complaint seeks an unspecified amount of damages, interest, and an injunction. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. 
+
+In July 2013, Telebuyer, LLC filed a complaint against Amazon.com, Inc., Amazon Web Services LLC, and VADATA, Inc. in the United States District Court for the Eastern District of Virginia. The complaint alleges, among other things, that certain features used on our retail website&#8212;including high resolution video and still images, user-indicated areas of interest, 
+
+targeted follow-up communications, vendor proposals, on-line chat, Gold Box and Lightning Deals, and vendor ratings&#8212;infringe seven U.S. Patents: Nos. 6,323,894, 7,835,508, 7,835,509, 7,839,984, 8,059,796, and 8,098,272, all entitled &#8220;Commercial Product Routing System With Video Vending Capability,&#8221; and 8,315,364, entitled &#8220;Commercial Product Routing System With Mobile Wireless And Video Vending Capability.&#8221; The complaint seeks an unspecified amount of damages, interest, and injunctive relief. In September 2013, the case was transferred to the United States District Court for the Western District of Washington. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. 
+
+In August 2013, Cellular Communications Equipment, LLC filed a complaint against Amazon.com, Inc. in the United States District Court for the Eastern District of Texas. The complaint alleges, among other things, that certain Kindle devices infringe U.S. Patent Nos. 6,819,923 entitled "Method For Communication Of Neighbor Cell Information"; 7,215,962 entitled "Method For An Intersystem Connection Handover"; 7,941,174 "Method For Multicode Transmission By A Subscriber Station"; and 8,055,820 entitled "Apparatus, System, And Method For Designating A Buffer Status Reporting Format Based On Detected Pre-Selected Buffer Conditions." The complaint seeks an unspecified amount of damages and interest. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. 
+
+In August 2013, Advanced Escreens, LLC filed a complaint against Amazon.com, Inc., in the United States District Court for the District of Delaware. The complaint alleges, among other things, that the screens used in Kindle devices infringe U.S. Patent No. 6,525,866, entitled "Electrophoretic Displays, Display Fluids For Use Therein, And Methods Of Displaying Images." The complaint seeks an unspecified amount of damages, interest, injunctive relief, and attorneys&#8217; fees. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. 
+
+In August 2013, Voltstar Technologies, Inc. f/k/a Horizon Technologies, Inc. filed a complaint against Amazon.com, Inc. in the United States District Court for the Northern District of Illinois. The complaint alleges, among other things, that a USB electrical charger sold for use with Kindle devices infringes U.S. Design Patent No. D5 87,192, entitled "Electrical Charger." The complaint seeks an unspecified amount of damages and costs. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. 
+
+Beginning in August 2013, a number of complaints were filed alleging, among other things, that Amazon.com, Inc. and several of its subsidiaries failed to compensate hourly workers for time spent waiting in security lines and otherwise violated federal and state wage and hour statutes and common law. In August 2013, Busk v. Integrity Staffing Solutions, Inc. and Amazon.com, Inc. was filed in the United States District Court for the District of Nevada, and Vance v. Amazon.com, Inc., Zappos.com Inc., another affiliate of Amazon.com, Inc., and Kelly Services, Inc. was filed in the United States District Court for the Western District of Kentucky. In September 2013, Allison v. Amazon.com, Inc. and Integrity Staffing Solutions, Inc. was filed in the United States District Court for the Western District of Washington, and Johnson v. Amazon.com, Inc. and an affiliate of Amazon.com, Inc. was filed in the United States District Court for the Western District of Kentucky. In October 2013, Davis v. Amazon.com, Inc., an affiliate of Amazon.com, Inc., and Integrity Staffing Solutions, Inc. was filed in the United States District Court for the Middle District of Tennessee. The plaintiffs variously purport to represent a nationwide class of certain current and former employees under the Fair Labor Standards Act and/or state-law-based subclasses for certain current and former employees in states including Arizona, California, Pennsylvania, South Carolina, Kentucky, and Nevada, and one complaint asserts nationwide breach of contract and unjust enrichment claims. The complaints seek an unspecified amount of damages, interest, injunctive relief, and attorneys&#8217; fees. We have been named in several other similar cases. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in these matters. 
+
+In September 2013, Personalized Media Communications, LLC filed a complaint against Amazon.com, Inc. and Amazon Web Services, LLC in the United States District Court for the District of Delaware. The complaint alleges, among other things, that the use of certain Kindle devices, Kindle apps, and/or Amazon.com, Inc.&#8217;s website to purchase and receive electronic media infringes nine U.S. Patents: Nos. 5,887,243, 7,801,304, 7,805,749, 7,940,931, 7,769,170, 7,864,956, 7,827,587, 8,046,791, and 7,883,252, all entitled &#8220;Signal Processing Apparatus and Methods.&#8221; The complaint also alleges, among other things, that CloudFront, S3, and EC2 web services infringe three of those patents, Nos. 7,801,304, 7,864,956, and 7,827,587. The complaint seeks an unspecified amount of damages, interest, and injunctive relief. We dispute the allegations of wrongdoing and intend to vigorously defend ourselves in this matter. 
+
+We cannot predict the impact (if any) that any of the matters described above or in our 2012 &#32;Annual Report on Form 10-K or Forms 10-Q for the Periods Ended March 31, 2013, and June 30, 2013, may have on our business, results of operations, financial position, or cash flows. Because of the inherent uncertainties of such matters, including the early stage and lack of specific damage claims in many of them, we cannot estimate the range of possible losses from them (except as otherwise indicated). 
+
+See also &#8220;Note 7 &#8212; Income Taxes.&#8221; 
+
+Note 4 &#8212; Equity-Method Investments 
+
+LivingSocial&#8217;s summarized condensed financial information, as provided to us by LivingSocial, is as follows (in millions): 
+
+&#160; 
+
+&#160; &#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+&#160; 
+
+Statement of Operations: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+$ 
+
+&#160; 
+
+$ 
+
+Operating expense 
+
+&#160; 
+
+Impairment charge 
+
+&#8212; 
+
+&#160; 
+
+Operating loss 
+
+(110 
+
+) 
+
+&#160; 
+
+(767 
+
+) 
+
+Net loss (1) 
+
+$ 
+
+(107 
+
+) 
+
+&#160; 
+
+$ 
+
+(516 
+
+) 
+
+___________________ 
+
+(1) 
+
+The difference between the operating loss and net loss for the nine months ended &#32; September 30, 2012 &#32;is primarily due to non-operating, non-cash gains on previously held equity positions in companies that LivingSocial acquired during Q1 2012. 
+
+As of September 30, 2013 , the book value of our equity-method investment in LivingSocial was $15 million . Additionally, in Q1 2013 we made a $56 million &#32;investment in LivingSocial that we have recorded as a cost method investment, bringing our total investment in LivingSocial to approximately 31% &#32;of voting stock. 
+
+Note 5 &#8212; Long-Term Debt 
+
+In November 2012, we issued $3.0 billion &#32;of unsecured senior notes in three &#32;tranches as described in the table below (collectively, the &#8220;Notes&#8221;). As of September 30, 2013 , and December 31, 2012 , the unamortized discount on the Notes was $24 million &#32;and $27 million . We also have other long-term debt with a carrying amount, including the current portion, of $747 million &#32;and $691 million &#32;at September 30, 2013 &#32;and December 31, 2012 . The face value of our total long-term debt obligations is as follows (in millions): 
+
+&#160; 
+
+September 30, 2013 
+
+&#160; 
+
+December 31, 2012 
+
+0.65% Notes due on November 27, 2015 
+
+$ 
+
+&#160; 
+
+$ 
+
+1.20% Notes due on November 29, 2017 
+
+1,000 
+
+&#160; 
+
+1,000 
+
+2.50% Notes due on November 29, 2022 
+
+1,250 
+
+&#160; 
+
+1,250 
+
+Other long-term debt 
+
+&#160; 
+
+Total debt 
+
+3,747 
+
+&#160; 
+
+3,691 
+
+Less current portion of long-term debt 
+
+(680 
+
+) 
+
+&#160; 
+
+(579 
+
+) 
+
+Face value of long-term debt 
+
+$ 
+
+3,067 
+
+&#160; 
+
+$ 
+
+3,112 
+
+The effective interest rates of the 2015, 2017, and 2022 Notes were 0.84% , 1.38% , and 2.66% . Interest on the Notes is payable semi-annually in arrears in May and November . We may redeem the Notes at any time in whole, or from time to time, in part at specified redemption prices. We are not subject to any financial covenants under the Notes. We used the net proceeds from the issuance of the Notes for general corporate purposes. The estimated fair value of the Notes was approximately $2.9 billion &#32;and $3.0 billion &#32;at September 30, 2013 &#32;and December 31, 2012 , which is based on quoted prices for our publicly-traded debt as of that date. 
+
+The other debt, including the current portion, had a weighted average interest rate of 6.3% &#32;and 6.4% &#32;at September 30, 2013 &#32;and December 31, 2012 . We used the net proceeds from the issuance of the debt to fund certain international operations. The estimated fair value of the other long-term debt, which is based on Level 2 inputs, approximated its carrying value at September 30, 2013 &#32;and December 31, 2012 . 
+
+Note 6 &#8212; Stockholders&#8217; Equity 
+
+Stock Repurchase Activity 
+
+In January 2010, our Board of Directors authorized the Company to repurchase up to $2.0 billion &#32;of our common stock with no fixed expiration. We have $763 million &#32;remaining under the $2.0 billion &#32;repurchase program. 
+
+Stock Award Activity 
+
+Common shares outstanding plus shares underlying outstanding stock awards totaled 475 million &#32;as of September 30, 2013 , and 470 million &#32;as of December 31, 2012 . These totals include all vested and unvested stock awards outstanding, including those awards we estimate will be forfeited. The following table summarizes our restricted stock unit activity for the nine months ended September 30, 2013 &#32;(in millions): 
+
+&#160; 
+
+&#160; 
+
+Number of Units 
+
+&#160; 
+
+Weighted Average 
+
+Grant-Date 
+
+Fair Value 
+
+Outstanding as of December 31, 2012 
+
+15.4 
+
+&#160; 
+
+$ 
+
+Units granted 
+
+6.1 
+
+&#160; 
+
+Units vested 
+
+(3.1 
+
+) 
+
+&#160; 
+
+Units forfeited 
+
+(1.5 
+
+) 
+
+&#160; 
+
+Outstanding as of September 30, 2013 
+
+16.9 
+
+&#160; 
+
+$ 
+
+Scheduled vesting for outstanding restricted stock units as of September 30, 2013 , is as follows (in millions): 
+
+&#160; 
+
+&#160; 
+
+Three Months Ended December 31, 
+
+&#160; 
+
+Year Ended December 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Thereafter 
+
+&#160; 
+
+Total 
+
+Scheduled vesting&#8212;restricted stock units 
+
+1.5 
+
+&#160; 
+
+5.4 
+
+&#160; 
+
+5.6 
+
+&#160; 
+
+2.9 
+
+&#160; 
+
+1.2 
+
+&#160; 
+
+0.3 
+
+&#160; 
+
+16.9 
+
+As of September 30, 2013 , there was $1.7 billion &#32;of net unrecognized compensation cost related to unvested stock-based compensation arrangements. This compensation is recognized on an accelerated basis with approximately half of the compensation expected to be expensed in the next twelve months, and has a weighted average recognition period of 1.2 &#32;years. 
+
+Note 7 &#8212; Income Taxes 
+
+Our tax provision or benefit from income taxes for interim periods is determined using an estimate of our annual effective tax rate, adjusted for discrete items, if any, that are taken into account in the relevant period. Each quarter we update our estimate of the annual effective tax rate, and if our estimated tax rate changes, we make a cumulative adjustment. 
+
+Our quarterly tax provision, and our quarterly estimate of our annual effective tax rate, is subject to significant variation due to several factors, including variability in accurately predicting our pre-tax and taxable income and loss and the mix of jurisdictions to which they relate, changes in how we do business, acquisitions (including integrations) and investments, audit developments, foreign currency gains (losses), changes in law, regulations, and administrative practices, and relative changes of expenses or losses for which tax benefits are not recognized. Additionally, our effective tax rate can be more or less volatile based on the amount of pre-tax income. For example, the impact of discrete items and non-deductible expenses on our effective tax rate is greater when our pre-tax income is lower. 
+
+In 2013 , our effective tax rate will be significantly affected by the favorable impact of earnings in lower tax rate jurisdictions and the adverse effect of losses incurred in certain foreign jurisdictions for which we may not realize a tax benefit. Income earned in lower tax jurisdictions is primarily related to our European operations, which are headquartered in Luxembourg. Losses incurred in foreign jurisdictions for which we may not realize a tax benefit reduce our pre-tax income without a corresponding reduction in our tax expense, and therefore increase our effective tax rate. 
+
+The year to date tax benefit as of September 30, 2013 &#32;includes $54 million &#32;of discrete tax benefits primarily resulting from the retroactive reinstatement of the federal research and development credit that was enacted in January 2013. 
+
+Cash paid for income taxes (net of refunds) was $23 million &#32;and $21 million &#32;in Q3 &#32; 2013 &#32;and Q3 &#32; 2012 , and $143 million &#32;and $60 million &#32;for the nine months ended September 30, 2013 &#32;and 2012 . 
+
+As of September 30, 2013 , and December 31, 2012 , tax contingencies were $336 million &#32;and $294 million . We expect the total amount of tax contingencies will grow in 2013 . In addition, changes in state, federal, and foreign tax laws may increase our tax contingencies. The timing of the resolution of income tax examinations is highly uncertain, and the amounts ultimately paid, if any, upon resolution of the issues raised by the taxing authorities may differ from the amounts accrued. It is reasonably possible that within the next 12 months we will receive additional assessments by various tax authorities or possibly reach resolution of income tax examinations in one or more jurisdictions. These assessments or settlements may or may not result in changes to our contingencies related to positions on prior years&#8217; tax filings. 
+
+We are under examination, or may be subject to examination, by the Internal Revenue Service (&#8220;IRS&#8221;) for the calendar year 2005 or thereafter. &#32;These examinations may lead to ordinary course adjustments or proposed adjustments to our taxes or our net operating losses. As previously disclosed, we have received Notices of Proposed Adjustment from the IRS for the 2005 and 2006 calendar years relating to transfer pricing with our foreign subsidiaries. The IRS is seeking to increase our U.S. taxable income by an amount that would result in additional federal tax over a seven year period beginning in 2005, totaling approximately $1.5 billion , subject to interest. To date, we have not resolved this matter administratively and, in December 2012, we petitioned the U.S. Tax Court to resolve the matter. We continue to disagree with these IRS positions and intend to vigorously contest them. 
+
+Certain of our subsidiaries are under examination or investigation or may be subject to examination or investigation by the French Tax Administration (&#8220;FTA&#8221;) for calendar year 2006 or thereafter. These examinations may lead to ordinary course adjustments or proposed adjustments to our taxes. While we have not yet received a final assessment from the FTA, in September 2012, we received proposed tax assessment notices for calendar years 2006 through 2010 relating to the allocation of income between foreign jurisdictions. The notices propose additional French tax of approximately $250 million , including interest and penalties through the date of the assessment. We disagree with the proposed assessment and intend to vigorously contest it. We plan to pursue all available administrative remedies at the FTA, and if we are not able to resolve this matter with the FTA, we plan to pursue judicial remedies. We are also subject to taxation in various states and other foreign jurisdictions including China, Germany, Japan, Luxembourg, and the United Kingdom. We are under or may be subject to audit or examination and additional assessments by these particular tax authorities for the calendar year 2003 and thereafter. 
+
+Note 8 &#8212; Segment Information 
+
+We have organized our operations into two &#32;principal segments: North America and International. We present our segment information along the same lines that our Chief Executive Officer reviews our operating results in assessing performance and allocating resources. 
+
+We allocate to segment results the operating expenses &#8220;Fulfillment,&#8221; &#8220;Marketing,&#8221; &#8220;Technology and content,&#8221; and &#8220;General and administrative,&#8221; but exclude from our allocations the portions of these expense lines attributable to stock-based compensation. We do not allocate the line item &#8220;Other operating expense (income), net&#8221; to our segment operating results. A majority of our costs for &#8220;Technology and content&#8221; are incurred in the United States and most of these costs are allocated to our North America segment. There are no internal revenue transactions between our reporting segments. 
+
+Information on reportable segments and reconciliation to consolidated net income (loss) is as follows (in millions): 
+
+&#160; 
+
+&#160; &#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+North America 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+$ 
+
+10,301 
+
+&#160; 
+
+$ 
+
+7,884 
+
+&#160; 
+
+$ 
+
+29,186 
+
+&#160; 
+
+$ 
+
+22,638 
+
+Segment operating expenses (1) 
+
+10,006 
+
+&#160; 
+
+7,593 
+
+&#160; 
+
+28,024 
+
+&#160; 
+
+21,655 
+
+Segment operating income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,162 
+
+&#160; 
+
+$ 
+
+International 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+$ 
+
+6,791 
+
+&#160; 
+
+$ 
+
+5,922 
+
+&#160; 
+
+$ 
+
+19,679 
+
+&#160; 
+
+$ 
+
+17,187 
+
+Segment operating expenses (1) 
+
+6,819 
+
+&#160; 
+
+5,981 
+
+&#160; 
+
+19,724 
+
+&#160; 
+
+17,181 
+
+Segment operating income (loss) 
+
+$ 
+
+(28 
+
+) 
+
+&#160; 
+
+$ 
+
+(59 
+
+) 
+
+&#160; 
+
+$ 
+
+(45 
+
+) 
+
+&#160; 
+
+$ 
+
+Consolidated 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net sales 
+
+$ 
+
+17,092 
+
+&#160; 
+
+$ 
+
+13,806 
+
+&#160; 
+
+$ 
+
+48,865 
+
+&#160; 
+
+$ 
+
+39,825 
+
+Segment operating expenses (1) 
+
+16,825 
+
+&#160; 
+
+13,574 
+
+&#160; 
+
+47,748 
+
+&#160; 
+
+38,836 
+
+Segment operating income 
+
+&#160; 
+
+&#160; 
+
+1,117 
+
+&#160; 
+
+Stock-based compensation 
+
+(281 
+
+) 
+
+&#160; 
+
+(217 
+
+) 
+
+&#160; 
+
+(808 
+
+) 
+
+&#160; 
+
+(597 
+
+) 
+
+Other operating income (expense), net 
+
+(11 
+
+) 
+
+&#160; 
+
+(43 
+
+) 
+
+&#160; 
+
+(74 
+
+) 
+
+&#160; 
+
+(121 
+
+) 
+
+Income (loss) from operations 
+
+(25 
+
+) 
+
+&#160; 
+
+(28 
+
+) 
+
+&#160; 
+
+&#160; 
+
+Total non-operating income (expense) 
+
+(18 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(181 
+
+) 
+
+&#160; 
+
+(64 
+
+) 
+
+Benefit (provision) for income taxes 
+
+&#160; 
+
+(83 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(234 
+
+) 
+
+Equity-method investment activity, net of tax 
+
+(10 
+
+) 
+
+&#160; 
+
+(169 
+
+) 
+
+&#160; 
+
+(38 
+
+) 
+
+&#160; 
+
+(110 
+
+) 
+
+Net income (loss) 
+
+$ 
+
+(41 
+
+) 
+
+&#160; 
+
+$ 
+
+(274 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(137 
+
+) 
+
+___________________ 
+
+(1) 
+
+Represents operating expenses, excluding stock-based compensation and &#8220;Other operating expense (income), net,&#8221; which are not allocated to segments. 
+
+Net sales of similar products and services were as follows (in millions): 
+
+&#160; 
+
+&#160; &#160; 
+
+Three Months Ended September 30, 
+
+&#160; 
+
+Nine Months Ended September 30, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net Sales: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Media 
+
+$ 
+
+5,033 
+
+&#160; 
+
+$ 
+
+4,600 
+
+&#160; 
+
+$ 
+
+14,488 
+
+&#160; 
+
+$ 
+
+13,427 
+
+Electronics and other general merchandise 
+
+11,048 
+
+&#160; 
+
+8,558 
+
+&#160; 
+
+31,677 
+
+&#160; 
+
+24,695 
+
+Other (1) 
+
+1,011 
+
+&#160; 
+
+&#160; 
+
+2,700 
+
+&#160; 
+
+1,703 
+
+&#160; 
+
+$ 
+
+17,092 
+
+&#160; 
+
+$ 
+
+13,806 
+
+&#160; 
+
+$ 
+
+48,865 
+
+&#160; 
+
+$ 
+
+39,825 
+
+___________________ 
+
+(1) 
+
+Includes sales from non-retail activities, such as Amazon Web Services (&#8220;AWS&#8221;), advertising services, and our co-branded credit card agreements. 
