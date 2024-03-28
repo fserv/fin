@@ -1,0 +1,2 @@
+# fin
+Financial RAG
