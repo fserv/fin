@@ -1,0 +1,134 @@
+filings {
+    "total": {
+        "value": 80,
+        "relation": "eq"
+    },
+    "query": {
+        "from": 0,
+        "size": 1
+    },
+    "filings": [
+        {
+            "ticker": "AMZN",
+            "formType": "10-Q",
+            "accessionNo": "0001445305-13-002495",
+            "cik": "1018724",
+            "companyNameLong": "AMAZON COM INC (Filer)",
+            "companyName": "AMAZON COM INC",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930x10q.htm",
+            "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/0001445305-13-002495.txt",
+            "filedAt": "2013-10-24T19:56:06-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "1379589",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930x10q.htm",
+                    "description": "FORM 10-Q",
+                    "type": "10-Q"
+                },
+                {
+                    "sequence": "2",
+                    "size": "8581",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930xex311.htm",
+                    "description": "EX-31.1",
+                    "type": "EX-31.1"
+                },
+                {
+                    "sequence": "3",
+                    "size": "8722",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930xex312.htm",
+                    "description": "EX-31.2",
+                    "type": "EX-31.2"
+                },
+                {
+                    "sequence": "4",
+                    "size": "5624",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930xex321.htm",
+                    "description": "EX-32.1",
+                    "type": "EX-32.1"
+                },
+                {
+                    "sequence": "5",
+                    "size": "5774",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930xex322.htm",
+                    "description": "EX-32.2",
+                    "type": "EX-32.2"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "size": "6469830",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/0001445305-13-002495.txt",
+                    "description": "Complete submission text file",
+                    "type": "\u00a0"
+                }
+            ],
+            "periodOfReport": "2013-09-30",
+            "entities": [
+                {
+                    "fiscalYearEnd": "1231",
+                    "stateOfIncorporation": "DE",
+                    "act": "34",
+                    "cik": "1018724",
+                    "fileNo": "000-22513",
+                    "irsNo": "911646860",
+                    "companyName": "AMAZON COM INC (Filer)",
+                    "type": "10-Q",
+                    "sic": "5961 Retail-Catalog &amp; Mail-Order Houses",
+                    "filmNo": "131169114"
+                }
+            ],
+            "id": "99477317cd5ab4deffacf5efb931af57",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1018724/0001445305-13-002495-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "6",
+                    "size": "944811",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930.xml",
+                    "description": "XBRL INSTANCE DOCUMENT",
+                    "type": "EX-101.INS"
+                },
+                {
+                    "sequence": "7",
+                    "size": "37988",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "8",
+                    "size": "81806",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930_cal.xml",
+                    "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+                    "type": "EX-101.CAL"
+                },
+                {
+                    "sequence": "9",
+                    "size": "196604",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "10",
+                    "size": "483808",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "11",
+                    "size": "265885",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/amzn-20130930_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+                    "type": "EX-101.PRE"
+                }
+            ]
+        }
+    ]
+}
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.666s
