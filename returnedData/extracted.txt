@@ -1,3 +1,55 @@
+&#160; 
+
+1,242 
+
+&#160; 
+
+2,382 
+
+Total commitments 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,938 
+
+&#160; 
+
+$ 
+
+2,749 
+
+&#160; 
+
+$ 
+
+1,076 
+
+&#160; 
+
+$ 
+
+1,787 
+
+&#160; 
+
+$ 
+
+5,707 
+
+&#160; 
+
+$ 
+
+15,120 
+
+___________________ 
+
+(1) 
+
 Includes unconditional purchase obligations related to agreements to acquire and license digital video content that represent long-term liabilities or that are not reflected on the consolidated balance sheets. 
 
 (2) 
@@ -867,3 +919,6 @@ ___________________
 (1) 
 
 Includes sales from non-retail activities, such as Amazon Web Services (&#8220;AWS&#8221;), advertising services, and our co-branded credit card agreements. 
+
+
+.
