@@ -30,6 +30,21 @@ class SEC_API:
         self.api_key = os.environ['SEC_API_KEY']
         self.sec_api_query = QueryApi(api_key=self.api_key)
         self.sec_api_extract = ExtractorApi(api_key=self.api_key)
+
+    def get10q (self, ticker_symbol):
+        """
+        Retrieves the 10-Q filings for a given ticker symbol.
+
+        Args:
+            ticker_symbol (str): The ticker symbol of the company.
+            
+        Returns: 
+            Downloads the 10-Q filing in PDF format.
+
+            If it does not exist, it will throw an error 
+        """
+
+        
     
     def query(self, ticker_symbol):
         """
@@ -43,7 +58,8 @@ class SEC_API:
                 "query": f'formType:"10-Q" AND ticker:{ticker_symbol}', # only 10-Qs
             }},
             "from": "0", # start returning matches from position null, i.e. the first matching filing 
-            "size": "1"  # return just one filing
+            "size": "1", # return just one filing
+            "sort": [{ "filedAt": { "order": "desc" } }]
         }
 
         response = self.sec_api_query.get_filings(query)
